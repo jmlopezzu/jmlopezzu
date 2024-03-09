@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu" alt="jmlopezzu" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu&row=2" alt="jmlopezzu" /></a> </p>
 
+<hr>
 - 🔭We are learning **Fullstack development**
 
 - 🤝🔭We are for help with **Fullstack and Cloud services**
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on GITHUB
 
-- 💬 Ask me about **C, C#, Js, React, Redux**
+- 💬 Ask me about ** Python, R, Js, React **
 
-- ⚡ Fun fact **SWIM BIKE RUN **
+- ⚡ Fun fact ** SWIM BIKE RUN **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
