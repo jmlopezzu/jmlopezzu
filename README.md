@@ -32,13 +32,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ** Python, R, Js, React **
 
 - ⚡ Fun fact ** SWIM BIKE RUN **
+- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezzu&show_icons=true&locale=en&layout=compact" alt="jmlopezzu" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu&column=3" alt="jmlopezzu" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezzu&show_icons=true&locale=en&layout=compact" alt="jmlopezzu" /></p>
 
