@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, This is AZEN Frontend</h1>
+<h1 align="center">INDUSTRIAL ENGINEER & DATA SCIENTIST</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu" alt="jmlopezzu" /></a> </p>
