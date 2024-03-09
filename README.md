@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 </p>
 
+<br>
 
-
-
+<br>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezzu&show_icons=true&locale=en&layout=compact" alt="jmlopezzu" /></p>
