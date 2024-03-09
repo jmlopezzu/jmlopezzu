@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu&row=2" alt="jmlopezzu" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=jmlopezzu&column=4" alt="jmlopezzu" /></a> </p>
 
 <hr>
 - 🔭We are learning **Fullstack development**
