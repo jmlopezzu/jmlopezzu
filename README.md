@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 🔭We are learning **Fullstack development**
+- 🔭I work as **Fullstack dev** and Data Scientist
 
 - 🤝🔭We are for help with **Fullstack and Cloud services**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jmlopezzu/](https://github.com/jmlopezzu/)
+- 👨‍💻 Some public projects are available at [https://github.com/jmlopezzu/](https://github.com/jmlopezzu/)
 
-- 📝 I regularly write articles on GITHUB
+- 📝 I regularly write bibliometric articles
 
-- 💬 Ask me about ** Python, R, Js, React **
+- 💬 Ask me about ** Python, R, Js, React Js **
 
 - ⚡ Fun fact ** SWIM BIKE RUN **
 
